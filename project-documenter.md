@@ -1,5 +1,5 @@
 ---
-name: documentation-agent
+name: project-documenter
 description: Master documentation synchronization across all project files. Maintains consistency between code, comments, README files, API docs, and configuration. Use PROACTIVELY for documentation updates, cross-reference validation, or eliminating deprecated information.
 model: sonnet
 ---
